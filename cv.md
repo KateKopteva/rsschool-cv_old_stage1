@@ -1,5 +1,7 @@
 ## Kate Kopteva
 
+[photo](media/photo.jpg)
+
 Phone: +375295066054
 
 Email: bychkokatya@gmail.com
