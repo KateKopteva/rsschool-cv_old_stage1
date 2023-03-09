@@ -18,6 +18,8 @@ I'm a creative person. I make edible bouquets of sweets, dried fruits, sousages,
 
 I'm hard-working and respondible person with good organizational skills. I pay attention to all the details and like to be sure that everything is just right.
 
+*** 
+
 #### SKILLS
 
 * Python
@@ -43,3 +45,28 @@ def anagrams(word, words):
             s.append(i)       
     return s
 print(anagrams('abba', ['aabb', 'abcd', 'bbaa', 'dada']))
+```
+
+***
+
+#### WORK EXPERIENCE
+
+* Minsk Electric Networks, *full stack developer* 
+* Coding School TeachMeSkills, *python developer*
+* Mostra-group, *economist*
+  
+***
+
+#### EDUCATION
+
+* Coding School TeachMeSkills, *python developer*
+* Stepik.org, *python for beginners, javascript for beginners*
+* Belarusian National Technical University, *manager-economist*
+
+***
+
+#### LANGUAGES
+
+* English - Pre-Intermediate
+* Russian - Native 
+* Belarusian - Basic
