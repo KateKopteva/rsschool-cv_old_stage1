@@ -1,6 +1,6 @@
 ## Kate Kopteva
 
-[photo](media/photo.jpg)
+![photo](media/photo.jpg)
 
 Phone: +375295066054
 
